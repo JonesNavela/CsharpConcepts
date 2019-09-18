@@ -1,0 +1,6 @@
+c:\users\thembela mdluli\documents\visual studio 2013\Projects\ClassesandObjects\ClassesandObjects\bin\Debug\ClassesandObjects.exe.config
+c:\users\thembela mdluli\documents\visual studio 2013\Projects\ClassesandObjects\ClassesandObjects\bin\Debug\ClassesandObjects.exe
+c:\users\thembela mdluli\documents\visual studio 2013\Projects\ClassesandObjects\ClassesandObjects\bin\Debug\ClassesandObjects.pdb
+c:\users\thembela mdluli\documents\visual studio 2013\Projects\ClassesandObjects\ClassesandObjects\obj\Debug\ClassesandObjects.csprojResolveAssemblyReference.cache
+c:\users\thembela mdluli\documents\visual studio 2013\Projects\ClassesandObjects\ClassesandObjects\obj\Debug\ClassesandObjects.exe
+c:\users\thembela mdluli\documents\visual studio 2013\Projects\ClassesandObjects\ClassesandObjects\obj\Debug\ClassesandObjects.pdb

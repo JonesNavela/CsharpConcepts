@@ -1,0 +1,7 @@
+C:\Users\Thembela Mdluli\source\repos\GettingUserInput\GettingUserInput\bin\Debug\GettingUserInput.exe.config
+C:\Users\Thembela Mdluli\source\repos\GettingUserInput\GettingUserInput\bin\Debug\GettingUserInput.exe
+C:\Users\Thembela Mdluli\source\repos\GettingUserInput\GettingUserInput\bin\Debug\GettingUserInput.pdb
+C:\Users\Thembela Mdluli\source\repos\GettingUserInput\GettingUserInput\obj\Debug\GettingUserInput.csproj.CoreCompileInputs.cache
+C:\Users\Thembela Mdluli\source\repos\GettingUserInput\GettingUserInput\obj\Debug\GettingUserInput.exe
+C:\Users\Thembela Mdluli\source\repos\GettingUserInput\GettingUserInput\obj\Debug\GettingUserInput.pdb
+C:\Users\Thembela Mdluli\source\repos\GettingUserInput\GettingUserInput\obj\Debug\GettingUserInput.csprojAssemblyReference.cache

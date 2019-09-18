@@ -1,0 +1,5 @@
+c:\users\thembela mdluli\documents\visual studio 2013\Projects\2DArrays\2DArrays\bin\Debug\2DArrays.exe.config
+c:\users\thembela mdluli\documents\visual studio 2013\Projects\2DArrays\2DArrays\bin\Debug\2DArrays.exe
+c:\users\thembela mdluli\documents\visual studio 2013\Projects\2DArrays\2DArrays\bin\Debug\2DArrays.pdb
+c:\users\thembela mdluli\documents\visual studio 2013\Projects\2DArrays\2DArrays\obj\Debug\2DArrays.exe
+c:\users\thembela mdluli\documents\visual studio 2013\Projects\2DArrays\2DArrays\obj\Debug\2DArrays.pdb

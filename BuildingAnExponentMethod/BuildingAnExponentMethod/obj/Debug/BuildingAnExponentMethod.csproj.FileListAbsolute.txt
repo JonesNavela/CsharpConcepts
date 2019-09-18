@@ -1,0 +1,6 @@
+c:\users\thembela mdluli\documents\visual studio 2013\Projects\BuildingAnExponentMethod\BuildingAnExponentMethod\bin\Debug\BuildingAnExponentMethod.exe.config
+c:\users\thembela mdluli\documents\visual studio 2013\Projects\BuildingAnExponentMethod\BuildingAnExponentMethod\bin\Debug\BuildingAnExponentMethod.exe
+c:\users\thembela mdluli\documents\visual studio 2013\Projects\BuildingAnExponentMethod\BuildingAnExponentMethod\bin\Debug\BuildingAnExponentMethod.pdb
+c:\users\thembela mdluli\documents\visual studio 2013\Projects\BuildingAnExponentMethod\BuildingAnExponentMethod\obj\Debug\BuildingAnExponentMethod.csprojResolveAssemblyReference.cache
+c:\users\thembela mdluli\documents\visual studio 2013\Projects\BuildingAnExponentMethod\BuildingAnExponentMethod\obj\Debug\BuildingAnExponentMethod.exe
+c:\users\thembela mdluli\documents\visual studio 2013\Projects\BuildingAnExponentMethod\BuildingAnExponentMethod\obj\Debug\BuildingAnExponentMethod.pdb

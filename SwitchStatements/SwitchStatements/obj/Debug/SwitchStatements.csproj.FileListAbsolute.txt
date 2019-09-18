@@ -1,0 +1,6 @@
+c:\users\thembela mdluli\documents\visual studio 2013\Projects\SwitchStatements\SwitchStatements\bin\Debug\SwitchStatements.exe.config
+c:\users\thembela mdluli\documents\visual studio 2013\Projects\SwitchStatements\SwitchStatements\bin\Debug\SwitchStatements.exe
+c:\users\thembela mdluli\documents\visual studio 2013\Projects\SwitchStatements\SwitchStatements\bin\Debug\SwitchStatements.pdb
+c:\users\thembela mdluli\documents\visual studio 2013\Projects\SwitchStatements\SwitchStatements\obj\Debug\SwitchStatements.csprojResolveAssemblyReference.cache
+c:\users\thembela mdluli\documents\visual studio 2013\Projects\SwitchStatements\SwitchStatements\obj\Debug\SwitchStatements.exe
+c:\users\thembela mdluli\documents\visual studio 2013\Projects\SwitchStatements\SwitchStatements\obj\Debug\SwitchStatements.pdb

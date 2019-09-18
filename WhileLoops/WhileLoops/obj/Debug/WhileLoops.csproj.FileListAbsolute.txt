@@ -1,0 +1,6 @@
+c:\users\thembela mdluli\documents\visual studio 2013\Projects\WhileLoops\WhileLoops\bin\Debug\WhileLoops.exe.config
+c:\users\thembela mdluli\documents\visual studio 2013\Projects\WhileLoops\WhileLoops\bin\Debug\WhileLoops.exe
+c:\users\thembela mdluli\documents\visual studio 2013\Projects\WhileLoops\WhileLoops\bin\Debug\WhileLoops.pdb
+c:\users\thembela mdluli\documents\visual studio 2013\Projects\WhileLoops\WhileLoops\obj\Debug\WhileLoops.csprojResolveAssemblyReference.cache
+c:\users\thembela mdluli\documents\visual studio 2013\Projects\WhileLoops\WhileLoops\obj\Debug\WhileLoops.exe
+c:\users\thembela mdluli\documents\visual studio 2013\Projects\WhileLoops\WhileLoops\obj\Debug\WhileLoops.pdb

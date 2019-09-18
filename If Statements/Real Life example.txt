@@ -1,0 +1,13 @@
+I wake up
+if i'm hungry
+	I make food
+
+I look at my phone
+if it's dying
+	I charge it
+
+I leave my house
+if it's raining
+	I bring an umbrella
+otherwise
+	I bring sunglasses

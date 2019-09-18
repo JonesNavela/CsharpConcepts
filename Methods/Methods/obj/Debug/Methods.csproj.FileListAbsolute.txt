@@ -1,0 +1,7 @@
+C:\Users\Thembela Mdluli\source\repos\Methods\Methods\bin\Debug\Methods.exe.config
+C:\Users\Thembela Mdluli\source\repos\Methods\Methods\bin\Debug\Methods.exe
+C:\Users\Thembela Mdluli\source\repos\Methods\Methods\bin\Debug\Methods.pdb
+C:\Users\Thembela Mdluli\source\repos\Methods\Methods\obj\Debug\Methods.csprojAssemblyReference.cache
+C:\Users\Thembela Mdluli\source\repos\Methods\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\Thembela Mdluli\source\repos\Methods\Methods\obj\Debug\Methods.exe
+C:\Users\Thembela Mdluli\source\repos\Methods\Methods\obj\Debug\Methods.pdb

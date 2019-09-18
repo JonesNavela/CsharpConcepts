@@ -1,0 +1,6 @@
+C:\Users\Thembela Mdluli\Documents\Visual Studio 2013\Projects\BuildingaBetterCalculator\BuildingaBetterCalculator\bin\Debug\BuildingaBetterCalculator.exe.config
+C:\Users\Thembela Mdluli\Documents\Visual Studio 2013\Projects\BuildingaBetterCalculator\BuildingaBetterCalculator\bin\Debug\BuildingaBetterCalculator.exe
+C:\Users\Thembela Mdluli\Documents\Visual Studio 2013\Projects\BuildingaBetterCalculator\BuildingaBetterCalculator\bin\Debug\BuildingaBetterCalculator.pdb
+C:\Users\Thembela Mdluli\Documents\Visual Studio 2013\Projects\BuildingaBetterCalculator\BuildingaBetterCalculator\obj\Debug\BuildingaBetterCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Thembela Mdluli\Documents\Visual Studio 2013\Projects\BuildingaBetterCalculator\BuildingaBetterCalculator\obj\Debug\BuildingaBetterCalculator.exe
+C:\Users\Thembela Mdluli\Documents\Visual Studio 2013\Projects\BuildingaBetterCalculator\BuildingaBetterCalculator\obj\Debug\BuildingaBetterCalculator.pdb

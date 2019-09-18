@@ -1,0 +1,6 @@
+c:\users\thembela mdluli\documents\visual studio 2013\Projects\BuildingAGuessingGame\BuildingAGuessingGame\bin\Debug\BuildingAGuessingGame.exe.config
+c:\users\thembela mdluli\documents\visual studio 2013\Projects\BuildingAGuessingGame\BuildingAGuessingGame\bin\Debug\BuildingAGuessingGame.exe
+c:\users\thembela mdluli\documents\visual studio 2013\Projects\BuildingAGuessingGame\BuildingAGuessingGame\bin\Debug\BuildingAGuessingGame.pdb
+c:\users\thembela mdluli\documents\visual studio 2013\Projects\BuildingAGuessingGame\BuildingAGuessingGame\obj\Debug\BuildingAGuessingGame.exe
+c:\users\thembela mdluli\documents\visual studio 2013\Projects\BuildingAGuessingGame\BuildingAGuessingGame\obj\Debug\BuildingAGuessingGame.pdb
+c:\users\thembela mdluli\documents\visual studio 2013\Projects\BuildingAGuessingGame\BuildingAGuessingGame\obj\Debug\BuildingAGuessingGame.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\Thembela Mdluli\source\repos\MoreIfStatements\MoreIfStatements\bin\Debug\MoreIfStatements.exe.config
+C:\Users\Thembela Mdluli\source\repos\MoreIfStatements\MoreIfStatements\bin\Debug\MoreIfStatements.exe
+C:\Users\Thembela Mdluli\source\repos\MoreIfStatements\MoreIfStatements\bin\Debug\MoreIfStatements.pdb
+C:\Users\Thembela Mdluli\source\repos\MoreIfStatements\MoreIfStatements\obj\Debug\MoreIfStatements.csprojAssemblyReference.cache
+C:\Users\Thembela Mdluli\source\repos\MoreIfStatements\MoreIfStatements\obj\Debug\MoreIfStatements.csproj.CoreCompileInputs.cache
+C:\Users\Thembela Mdluli\source\repos\MoreIfStatements\MoreIfStatements\obj\Debug\MoreIfStatements.exe
+C:\Users\Thembela Mdluli\source\repos\MoreIfStatements\MoreIfStatements\obj\Debug\MoreIfStatements.pdb

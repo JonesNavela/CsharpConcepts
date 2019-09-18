@@ -1,0 +1,7 @@
+C:\Users\Thembela Mdluli\source\repos\WorkingWithNumbers\WorkingWithNumbers\bin\Debug\WorkingWithNumbers.exe.config
+C:\Users\Thembela Mdluli\source\repos\WorkingWithNumbers\WorkingWithNumbers\bin\Debug\WorkingWithNumbers.exe
+C:\Users\Thembela Mdluli\source\repos\WorkingWithNumbers\WorkingWithNumbers\bin\Debug\WorkingWithNumbers.pdb
+C:\Users\Thembela Mdluli\source\repos\WorkingWithNumbers\WorkingWithNumbers\obj\Debug\WorkingWithNumbers.csprojAssemblyReference.cache
+C:\Users\Thembela Mdluli\source\repos\WorkingWithNumbers\WorkingWithNumbers\obj\Debug\WorkingWithNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Thembela Mdluli\source\repos\WorkingWithNumbers\WorkingWithNumbers\obj\Debug\WorkingWithNumbers.exe
+C:\Users\Thembela Mdluli\source\repos\WorkingWithNumbers\WorkingWithNumbers\obj\Debug\WorkingWithNumbers.pdb

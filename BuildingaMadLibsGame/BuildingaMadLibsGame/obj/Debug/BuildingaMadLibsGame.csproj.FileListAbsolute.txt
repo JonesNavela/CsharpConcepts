@@ -1,0 +1,7 @@
+C:\Users\Thembela Mdluli\source\repos\BuildingaMadLibsGame\BuildingaMadLibsGame\bin\Debug\BuildingaMadLibsGame.exe.config
+C:\Users\Thembela Mdluli\source\repos\BuildingaMadLibsGame\BuildingaMadLibsGame\bin\Debug\BuildingaMadLibsGame.exe
+C:\Users\Thembela Mdluli\source\repos\BuildingaMadLibsGame\BuildingaMadLibsGame\bin\Debug\BuildingaMadLibsGame.pdb
+C:\Users\Thembela Mdluli\source\repos\BuildingaMadLibsGame\BuildingaMadLibsGame\obj\Debug\BuildingaMadLibsGame.csprojAssemblyReference.cache
+C:\Users\Thembela Mdluli\source\repos\BuildingaMadLibsGame\BuildingaMadLibsGame\obj\Debug\BuildingaMadLibsGame.csproj.CoreCompileInputs.cache
+C:\Users\Thembela Mdluli\source\repos\BuildingaMadLibsGame\BuildingaMadLibsGame\obj\Debug\BuildingaMadLibsGame.exe
+C:\Users\Thembela Mdluli\source\repos\BuildingaMadLibsGame\BuildingaMadLibsGame\obj\Debug\BuildingaMadLibsGame.pdb

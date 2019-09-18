@@ -1,0 +1,13 @@
+C:\Users\Thembela Mdluli\source\repos\BuildingaCalculator\BuildingaCalculator\bin\Debug\BuildingaCalculator.exe.config
+C:\Users\Thembela Mdluli\source\repos\BuildingaCalculator\BuildingaCalculator\bin\Debug\BuildingaCalculator.exe
+C:\Users\Thembela Mdluli\source\repos\BuildingaCalculator\BuildingaCalculator\bin\Debug\BuildingaCalculator.pdb
+C:\Users\Thembela Mdluli\source\repos\BuildingaCalculator\BuildingaCalculator\obj\Debug\BuildingaCalculator.csprojAssemblyReference.cache
+C:\Users\Thembela Mdluli\source\repos\BuildingaCalculator\BuildingaCalculator\obj\Debug\BuildingaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Thembela Mdluli\source\repos\BuildingaCalculator\BuildingaCalculator\obj\Debug\BuildingaCalculator.exe
+C:\Users\Thembela Mdluli\source\repos\BuildingaCalculator\BuildingaCalculator\obj\Debug\BuildingaCalculator.pdb
+C:\Users\Thembela Mdluli\Documents\Visual Studio 2013\Projects\BuildingaCalculator\BuildingaCalculator\bin\Debug\BuildingaCalculator.exe.config
+C:\Users\Thembela Mdluli\Documents\Visual Studio 2013\Projects\BuildingaCalculator\BuildingaCalculator\obj\Debug\BuildingaCalculator.exe
+C:\Users\Thembela Mdluli\Documents\Visual Studio 2013\Projects\BuildingaCalculator\BuildingaCalculator\obj\Debug\BuildingaCalculator.pdb
+C:\Users\Thembela Mdluli\Documents\Visual Studio 2013\Projects\BuildingaCalculator\BuildingaCalculator\bin\Debug\BuildingaCalculator.exe
+C:\Users\Thembela Mdluli\Documents\Visual Studio 2013\Projects\BuildingaCalculator\BuildingaCalculator\bin\Debug\BuildingaCalculator.pdb
+C:\Users\Thembela Mdluli\Documents\Visual Studio 2013\Projects\BuildingaCalculator\BuildingaCalculator\obj\Debug\BuildingaCalculator.csprojResolveAssemblyReference.cache
